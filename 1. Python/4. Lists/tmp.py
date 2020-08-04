@@ -1,5 +1,2 @@
-planets = ['Mercury', 'Venus', 'Earth', 'Mars',
-           'Jupiter', 'Saturn', 'Uranus', 'Neptune']
-
-
-print(planets[1:-1])
+a = [1, 2, 3][1:]
+print(a)
