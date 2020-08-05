@@ -7,5 +7,4 @@
 import pandas as pd
 path = '../melb_data.csv'
 m_data = pd.read_csv(path)
-
-print(m_data)
+m_data = m_data.dropna(axis=0)
