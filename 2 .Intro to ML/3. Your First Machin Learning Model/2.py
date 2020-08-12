@@ -13,3 +13,5 @@ m_data = pd.read_csv(path)
 m_data = m_data.dropna(axis=0)
 y = m_data.Price
 print(y)
+
+print(x)

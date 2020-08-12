@@ -10,7 +10,6 @@ def least_difference(a, b, c):
     '''
     return the smalles difference between any two numbers among
     a,b, and c
-
     '''
     diff1 = abs(a-b)
     diff2 = abs(b-c)

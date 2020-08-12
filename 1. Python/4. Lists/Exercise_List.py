@@ -17,5 +17,3 @@ def losing_team_captain(teams):
     return
 
 
-# Check your answer
-q2.check()

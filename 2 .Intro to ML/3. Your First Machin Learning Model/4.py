@@ -41,4 +41,4 @@ print(model.fit(X, y))
 
 # ? Now we can use to make predictions.
 
-print(model.predict(X.head()))
+print(model.predict(X.head()))f
